@@ -6,16 +6,6 @@ returns the dominant emotion. If the optional `watson_nlp` runtime and model
 are installed locally, the package will try the native library first and fall
 back to the hosted endpoint otherwise.
 
-## Project tasks completed
-
-1. Cloned the repository and initialized the project in the checkout.
-2. Created an emotion detection package that calls the Watson NLP endpoint.
-3. Formatted the output into a readable emotion summary.
-4. Packaged the application with `pyproject.toml`.
-5. Added unit tests with `unittest`.
-6. Deployed the detector as a Flask application.
-7. Incorporated error handling for blank text and upstream failures.
-8. Configured static code analysis with `pylint`.
 
 ## Project structure
 
